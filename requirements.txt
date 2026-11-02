@@ -1,0 +1,1 @@
+# Zero dependencias externas (utiliza a biblioteca padrao do Python)
